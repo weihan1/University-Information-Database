@@ -1,1 +1,1 @@
-# University-Information-Database
+University Information Database is a project that I've worked on at the 2020 NSBEhacks. In essence, I've used Object-Oriented Programming to create the backend of this project, and the goal of this project was to make university selection less stressful. The user types in the choice of Canadian university they're interested in and chooses a feature (number of students, website, interesting fact, etc.). Then, the program outputs the desired result.
